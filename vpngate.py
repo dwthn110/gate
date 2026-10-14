@@ -90,7 +90,7 @@ EDGE_HOSTS = [
     if h.strip()
 ]
 # 优选 API 地址配置 (支持逗号分隔多个，可配置在 GitHub Action Secret / Env 中)
-OPTIMAL_API = os.environ.get("OPTIMAL_API", "https://cf.090227.xyz/cmcc?ips=1&port=443,https://cf.090227.xyz/ct?ips=1&port=443,https://v4.gh-proxy.org/https://raw.githubusercontent.com/gslege/CloudflareIP/refs/heads/main/JP.txt")
+OPTIMAL_API = os.environ.get("OPTIMAL_API", "https://cf.090227.xyz/cmcc?ips=5&port=443,https://cf.090227.xyz/ct?ips=5&port=443")
 
 NODES_URL = os.environ.get("NODES_URL", "https://dwthn110.github.io/gate/nodes.txt")
 
