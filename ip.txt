@@ -2,11 +2,7 @@ icook.hk:443#电信优选
 cdns.doon.eu.org:443#电信优选
 saas.sin.fan:443#电信优选
 cf.877774.xyz:443#电信优选
-cf.3666888.xyz:443#电信优选
-224322.xyz:443#电信优选
-cf.1o.ee:443#电信优选
 cdn.667891.xyz:443#电信优选
-cf.xreak.top:443#电信优选
 tt.78607323.xyz:443#电信优选
 www.mfyx.cn:443#电信优选
 www.blibli.com:443#电信优选
@@ -15,6 +11,5 @@ constitution.congress.gov:443#电信优选
 dianomi.com:443#电信优选
 53.fs1.hubspotusercontent-na1.net:443#电信优选
 www.broadcom.com:443#电信优选
-thebeat.gehealthcare.com:443#电信优选
 www.dbs.com.sg:443#电信优选
 coreweave.com:443#电信优选
