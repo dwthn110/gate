@@ -65,7 +65,7 @@ DEFAULT_EDGE_HOSTS = [
     "cdn.ctn32.us.kg:443",
     "p.etime.vip:443",
     "cmcc.vvvv.ee:443",
-    "hk.cf.3666888.xyz:443",
+    "hk.cf.3666888.xyz:443"
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
